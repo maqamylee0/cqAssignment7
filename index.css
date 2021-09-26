@@ -1,0 +1,84 @@
+body,html{
+   height: 100%;
+   margin: 0;
+
+
+}
+.bg{
+    background-image: url("img/bck.jpg");
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    position: relative;
+   
+}
+input{ 
+    padding-left:20px ;
+    height: 40px;
+    border-radius: 4px;
+    margin: 20px;
+    margin-top: 5px;
+    border: 1px solid #333;
+    background-color: #333;
+}
+.signinbtn{
+    background-color: #e50914;
+    width: 200px;
+    height: 40px;
+    margin-left: 24px;
+    border-radius: 4px;
+    color: white;
+    border:1px solid #e50914; ;
+
+}
+.card{
+    background-color: rgba(0,0,0,.75);
+    max-width: 300px;
+    width: 80%;
+    margin: auto;
+    margin-top:10px;
+    padding: 50px;
+  
+}
+.logo{
+    opacity: 0.8;
+}
+h1{
+    color: white;
+    margin-left: 30px;
+    height: 20px;
+}
+.img-logo{
+    height: 89px;
+}
+.below{
+    display: inline-flex;
+}
+.below2{
+    display: inline-flex;
+}
+.facebooklogo{
+    max-width: 30px;
+    max-height: 30px;
+    margin-left: 20px;
+}
+.para{
+    color:grey;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.new{
+    color: grey;
+    margin-left:30px;
+}
+span{
+    color: white;
+}
+h5{
+color: grey;
+}
+.help{
+    margin-left: 80px;
+
+}
